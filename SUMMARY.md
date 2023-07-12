@@ -10,6 +10,6 @@
 
 * [nodebalancers](nodebalancers/nodebalancers.md)
 
-* [serverTransfer](serverTransfer/serverTransfer.md)
+* [serverTransfer](serverTransfer/transfer.md)
 
 * [storage](storage/storage.md)
