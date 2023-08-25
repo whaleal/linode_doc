@@ -6,10 +6,14 @@
 
 * [api](api/api.md)
 
-* [linode](linode/linode.md)
+* [image](image/image.md)
 
+* [linode](linode/linode.md)
+  
 * [nodebalancers](nodebalancers/nodebalancers.md)
 
 * [serverTransfer](serverTransfer/transfer.md)
 
 * [storage](storage/storage.md)
+
+* [other](other/other.md)
