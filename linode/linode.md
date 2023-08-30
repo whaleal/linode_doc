@@ -60,7 +60,7 @@ A：更换服务器的ip只能在同属于一个region的服务器之间进行�
 
 A：没有直接可以创建的镜像，也不能直接以上传的镜像创建，需要按照教程自己实现
 
-[在linode上安装vyos](https://www.linode.com/community/questions/18630/how-do-i-install-vyos-on-my-linode)
+参考教程：[在linode上安装vyos](https://www.linode.com/community/questions/18630/how-do-i-install-vyos-on-my-linode)
 
-[安装自定义镜像](https://www.linode.com/docs/products/compute/compute-instances/guides/install-a-custom-distribution/)
+​					[安装自定义镜像](https://www.linode.com/docs/products/compute/compute-instances/guides/install-a-custom-distribution/)
 

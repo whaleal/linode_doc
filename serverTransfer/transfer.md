@@ -16,7 +16,7 @@
 
 A：在发出方创建一个serverTransfer
 
-![image-20230714113253947](/Users/whalefalls/Desktop/project/book/picture/image-20230714113253947.png)
+![image-20230714113253947](../picture/image-20230714113253947.png)
 
 如果有未支付的账单 则无法进行serverTransfer
 

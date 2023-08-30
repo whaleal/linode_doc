@@ -6,6 +6,8 @@
 
 * [api](api/api.md)
 
+* [database](database/database.md)
+
 * [image](image/image.md)
 
 * [linode](linode/linode.md)
