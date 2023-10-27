@@ -64,3 +64,6 @@ A：没有直接可以创建的镜像，也不能直接以上传的镜像创建�
 
 ​					[安装自定义镜像](https://www.linode.com/docs/products/compute/compute-instances/guides/install-a-custom-distribution/)
 
+### Q：Linode是否支持自动扩容
+
+A：不支持
