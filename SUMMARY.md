@@ -6,6 +6,7 @@
 * [database](database/database.md)
 * [image](image/image.md)
 * [linode](linode/linode.md)
+  * [IPSharing](linode/IPSharing.md)
 * [nodebalancers](nodebalancers/nodebalancers.md)
 * [serverTransfer](serverTransfer/transfer.md)
 * [storage](storage/storage.md)
